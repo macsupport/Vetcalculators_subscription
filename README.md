@@ -1,2 +1,2 @@
-# Vetcalculators_subscription-
+# Vetcalculators_subscription
 Code for Vetcalculators App renewable subscription
